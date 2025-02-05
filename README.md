@@ -7,7 +7,7 @@
 ⚡ Fun fact: I'm extremely knowledgeable in Finance and Accounting 
 
 
-# 🌐 look me up
+# 🕵️ Stalk me (legally!) 😆
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eric_ny_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eric_ny_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eric-darko-vision1030/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27657675) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:edarko265@gmail.com) 
 
 # 🚀 My Tech Arsenal
