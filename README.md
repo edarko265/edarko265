@@ -18,10 +18,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=edarko265&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=edarko265&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=edarko265&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=edarko265&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB6bnh1aWo1ZGcyZ2R2NHk1enlkczkwcjZ1ZG1ia2lrenkxNnNkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Description of GIF" width="200">
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
