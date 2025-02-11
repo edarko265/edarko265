@@ -4,7 +4,7 @@
 🔭 IT enthusiast, Passionate about Cybersecurity, AI and Robotics<br>
 🌱 The IOT ecosystem is my present habitat<br>
 🔗 Let's connect!: edarko265@gmail.com<br>
-⚡ Fun fact: I'm extremely knowledgeable in Finance and Accounting 
+⚡ Fun fact: I'm extremely knowledgeable in Finance and Accounting!
 
 
 # 🕵️ Stalk me (legally!) 😆
