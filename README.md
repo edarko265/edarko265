@@ -1,4 +1,4 @@
-# 👋🏽 Hi there, I'm Eric!
+# 👋🏽 Hi there, I'm Eric
 📚 I'm currently studying Information Technology (IOT)<br>
 🏫 My learning journey as a student @ Savonia University of Applied Sciences <br>
 🔭 IT enthusiast, Passionate about Cybersecurity, AI and Robotics<br>
