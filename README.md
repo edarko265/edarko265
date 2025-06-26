@@ -1,7 +1,7 @@
 # 👋🏽 Hi there, I'm Eric !
 📚 I'm currently studying Information Technology (IOT)<br>
 🏫 My learning journey as a student @ Savonia University of Applied Sciences <br>
-🔭 IT enthusiast, Passionate about Cybersecurity, AI and Robotics<br>
+🔭 IT enthusiast, Passionate about Cybersecurity & Software Development <br>
 🌱 The IOT ecosystem is my present habitat<br>
 🔗 Let's connect!: edarko265@gmail.com<br>
 ⚡ Fun fact: I'm extremely knowledgeable in Finance and Accounting
