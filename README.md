@@ -4,7 +4,7 @@
 🚀 Founder of [**DINC LLC**](https://dinc.pro) — IT solutions focused on automation, AI & modern software delivery<br>
 🔭 Building connected solutions that bridge hardware, software, and cloud technologies<br>
 💡 From finance professional to IoT innovator — combining analytical thinking with technical depth<br>
-🔗 Portfolio: [ericdarko.com](https://ericdarko.com) · Email: [edarko265@gmail.com](mailto:edarko265@gmail.com)
+🔗 Portfolio: [ericdarko.com](https://ericdarko.com) · Email: [admin@ericdarko.com](mailto:admin@ericdarko.com)
 
 ---
 
