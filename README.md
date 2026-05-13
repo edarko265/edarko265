@@ -109,6 +109,10 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<div align="left">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB6bnh1aWo1ZGcyZ2R2NHk1enlkczkwcjZ1ZG1ia2lrenkxNnNkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbnUQpnihPSIgIXuZv/giphy.gif" alt="coding gif" width="200">
+</div>
+
 ---
 
 <p align="center">💬 Let's connect: <a href="mailto:admin@ericdarko.com">admin@ericdarko.com</a> · <a href="https://ericdarko.com">ericdarko.com</a> · <a href="https://dinc.pro">dinc.pro</a></p>
