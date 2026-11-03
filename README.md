@@ -114,4 +114,4 @@
 
 ---
 
-<p align="center">💬 Let's connect: <a href="mailto:admin@ericdarko.com">admin@ericdarko.com</a> · <a href="https://ericdarko.com">ericdarko.com</a> · <a href="https://dinc.pro">dinc.pro</a></p>
+<p align="center">💬 Let's connect: <a href="mailto:admin@ericdarko.com">admin@ericdarko.com</a> · <a href="https://ericdarko.com">ericdarko.com</a> · <a href="https://araxda.com">araxda.com</a>·<a href="https://dinc.pro">dinc.pro</a></p>
